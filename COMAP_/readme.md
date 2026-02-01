@@ -1,0 +1,1 @@
+comap is a scam
