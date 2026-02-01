@@ -1,0 +1,2 @@
+P_disp_max,P_disp_min,GAMMA,P_cpu_idle,P_cpu_max,P_idle_WiFi,P_idle_4G,P_idle_5G,P_idle_none,alpha_DL,alpha_UL,P_cam_active,P_gps_base,LAMBDA,P_daemon,I_bg_save,I_bg_idle,I_bg_on,P_active_burst
+1200,0,2,0.2,3000,200,500,1000,0.5,1.5,2.5,1100,400,0.5,0.1,0,0.1,0.8,300
